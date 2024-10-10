@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there 👋
+
+### Hobies
+- Viajar com a minha familia
+- Assistir filme com a minha mulher
+- Passar os finais de semana com o meu filho
+- Churrasco com os amigos
+### Formação
+- Superior incompleto em Engenharia Civil
+
+### Linguagem 
+- Basico em SQL
+
+### Estou Estudando
+- Cursando Analise de dados pela Growdev 
